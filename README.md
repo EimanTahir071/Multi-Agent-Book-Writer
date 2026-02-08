@@ -2,6 +2,8 @@
 
 A collaborative AI book writing system using multiple specialized agents. Each agent has a specific role in the writing pipeline to create a complete, polished book draft.
 
+
+<img src="/images/writer.PNG" alt="description" style="width:100%; height:auto;" />
 ## Project Overview
 
 This project simulates a writing team of AI agents that co-author a book. Each agent has a distinct role:
@@ -181,3 +183,4 @@ This project is open source and available for educational and commercial use.
 ---
 
 **Getting Started**: Install dependencies, start Ollama, and run `python main.py` to generate your first AI-written book!
+
